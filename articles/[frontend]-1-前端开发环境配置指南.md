@@ -26,7 +26,7 @@
 
 备注：
 
-(1)在命令行执行命令，`npm install -g nrm`，全局安装nrm
+(1)全局安装nrm，在命令行执行命令：`npm install -g nrm`
 
 (2)切换到taobao源，执行命令`nrm use taobao`
 
