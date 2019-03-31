@@ -10,7 +10,7 @@ Anaconda 是一个开源Python发行版，提供了python包管理、独立环�
 
 **请选择自己的操作系统，并下载Anaconda Python3.7 版本**
 
-![image-20190331102847452](/Users/vaan/workspace/smuport-edu-guide/assets/python-1/1.png)
+![image-20190331102847452](../assets/python-1/1.png)
 
 
 
@@ -34,4 +34,4 @@ pip install pipenv
 
 
 
-![image-20190331143634407](/Users/vaan/workspace/smuport-edu-guide/assets/python-1/2.png)
+![image-20190331143634407](../assets/python-1/2.png)
