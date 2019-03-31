@@ -21,8 +21,8 @@
 
 ### 前端
 
-1. 前端开发环境配置指南
-2. Angular基础教程
+1. [前端开发环境配置指南](./articles/[frontend]-1-前端开发环境配置指南.md)
+2. [Angular基础教程](./articles/[frontend]-2-Angular-基础教程.md)
 
 
 
