@@ -28,7 +28,7 @@
 
 ### 后端
 
-1. Flask基础教程(Python)
+1. [Flask基础教程(Python)](./articles/[backend]-1-Flask-基础教程.md)
 
 2. Django基础教程(Python)
 
